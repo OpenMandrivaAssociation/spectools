@@ -7,7 +7,7 @@ Group:		Networking/Other
 Version:	%{version}
 Release:	1
 License:	GPL
-Url:		http://www.kismetwireless.net
+Url:		https://www.kismetwireless.net
 Source0:	http://www.kismetwireless.net/code/%{name}-%{oversion}.tar.gz
 BuildRequires:	bison
 BuildRequires:	flex 
