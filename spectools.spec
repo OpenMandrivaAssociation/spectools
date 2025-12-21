@@ -9,6 +9,11 @@ Release:	1
 License:	GPL
 Url:		https://www.kismetwireless.net
 Source0:	http://www.kismetwireless.net/code/%{name}-%{oversion}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	bison
 BuildRequires:	flex 
 BuildRequires:	glib-devel
